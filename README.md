@@ -17,6 +17,12 @@ Este projeto foi desenvolvido durante o curso de extensão oferecido pela Univer
 
 ---
 
+## RoadMap 📖
+Esses foram os seguintes topicos abordados durante o curso de extensão  
+![GitHub](https://ibb.co/Xf5vNMmP)
+
+---
+
 ## Tecnologias Utilizadas 🛠️
 
 - Git
