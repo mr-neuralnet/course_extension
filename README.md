@@ -19,7 +19,7 @@ Este projeto foi desenvolvido durante o curso de extensão oferecido pela Univer
 
 ## RoadMap 📖
 Esses foram os seguintes topicos abordados durante o curso de extensão  
-![GitHub](https://ibb.co/Xf5vNMmP)
+![GitHub Image](Captura de tela de 2025-03-29 11-34-10.png)
 
 ---
 
