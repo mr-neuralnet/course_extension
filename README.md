@@ -9,7 +9,7 @@
 
 ---
 
-![GitHub Image](GitHub_imagec.png)
+![GitHub Image](GitHub_image.png)
 
 ## Descrição do Curso 📖
 
