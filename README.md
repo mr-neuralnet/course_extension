@@ -9,7 +9,7 @@
 
 ---
 
-![GitHub Image](file:///media/caio/hd/Projetos/Curso/course_extension/GitHub_imagec.png)
+![GitHub Image](GitHub_imagec.png)
 
 ## Descrição do Curso 📖
 
